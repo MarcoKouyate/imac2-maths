@@ -1,0 +1,3 @@
+/home/6im2/mkouyate/Documents/Marco/Mathematiques/version_etudiants/build/CMakeFiles/edit_cache.dir
+/home/6im2/mkouyate/Documents/Marco/Mathematiques/version_etudiants/build/CMakeFiles/rebuild_cache.dir
+/home/6im2/mkouyate/Documents/Marco/Mathematiques/version_etudiants/build/CMakeFiles/stabilisation.dir
